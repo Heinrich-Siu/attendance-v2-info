@@ -1,7 +1,7 @@
 # Attendance recorder
 
 version: 1.0.0
-released on 29 Dec 2020
+released on 31 Dec 2020
 
 ### Features
 The system has the following major features

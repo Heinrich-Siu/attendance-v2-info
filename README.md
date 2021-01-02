@@ -49,6 +49,7 @@ The system has the following major features
     - Toggle the cell active/inactive and change the name
     - Press *Confirm* to make the change
     - *Note: Inactive cell means it will not show up when adding record*
+    - *Note: Change cell name only when the cell is the same cell. E.g. correcting a wrong name/renaming a cell. If the cell is new or has notable cahnge in the member composition, it is recommended to add a new cell and deactivate the old cell. This will preserve the old cell name for previous record. If the cell name is change, all of the previous record will be change as well.*
 
   - #### Modify User
     - ##### Change **user info**
